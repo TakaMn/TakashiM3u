@@ -1,1 +1,5 @@
+**********Cignal-TV**********
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cignal.svg/1280px-Cignal.svg.png"
 
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/gmanetwork/images/f/f8/GMA_Network.png/revision/latest/scale-to-width-down/1200?cb=20250711165933" group-title="Cignal", GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
