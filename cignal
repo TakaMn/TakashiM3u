@@ -548,10 +548,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/arirang_sd/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_aljazeera/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1621424527i/58095078.jpg" group-title="Cignal", Cartoon Channel PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://data.phcorner.org/2025/10/12139921_ccph-mod2025_orig.png" group-title="Cignal", Cartoon Channel PH
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://data.phcorner.org/2025/10/12139921_ccph-mod2025_orig.png" group-title="Cignal", Kasaysayan PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1621424527i/58095078.jpg" group-title="Cignal", Kasaysayan PH
 https://live20.bozztv.com/akamaissh101/ssh101/kasaysayanph/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="Cignal", Pilipinas Live 2
